@@ -23,3 +23,4 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BombingScience&layout=compact&theme=dracula)
+![Sci's github stats](https://github-readme-stats.vercel.app/api?username=BombingScience&show_icons=true&theme=dracula)
